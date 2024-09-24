@@ -25,11 +25,13 @@ Now install the dependencies
 
 cd server
 npm init -y
+
 We are almost done, Now just start the development server.
 
 For Frontend.
 
 npm start
+
 Now open localhost:3000 in your browser.
 
 For Backend.
