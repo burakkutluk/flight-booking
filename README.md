@@ -37,6 +37,12 @@ Now open localhost:3000 in your browser.
 
 For Backend.
 
+.env example;
+MONGODB_URI=YOUR_MONGODB
+SCHIPHOL_APP_ID=YOUR_APP_ID
+SCHIPHOL_APP_KEY=YOUR_API_KEY
+PORT=YOUR_PORT
+
 Open another terminal in folder, Also make sure mongodb is running in background.
 
 npm start
