@@ -19,20 +19,20 @@ React TailwindCSS Nodejs MongoDB Schiphol PublicFlight API
 Both should be installed and make sure mongodb is running.
 
 ## Installation
-
+```
 git clone https://github.com/burakkutluk/flight-booking
 
 Now install the dependencies
 
 cd server
 npm init -y
-
+```
 We are almost done, Now just start the development server.
 
 For Frontend.
-
+```
 npm start
-
+```
 Now open localhost:3000 in your browser.
 
 For Backend.
