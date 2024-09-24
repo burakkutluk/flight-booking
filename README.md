@@ -13,8 +13,9 @@ React TailwindCSS Nodejs MongoDB Schiphol PublicFlight API
 ### Installation Guide
 
 ## Requirements
-Nodejs
-Mongodb
+* Nodejs
+* Mongodb 
+
 Both should be installed and make sure mongodb is running.
 
 ## Installation
@@ -39,6 +40,5 @@ For Backend.
 Open another terminal in folder, Also make sure mongodb is running in background.
 
 npm start
+
 Done! Now open localhost:3001 in your browser.
-
-
