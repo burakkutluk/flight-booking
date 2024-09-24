@@ -5,8 +5,7 @@ Kullanıcılar konum ve tarih bilgilerini girerek uçuş arayabilir ve rezervasy
 ![home (1)](https://github.com/user-attachments/assets/10cfa519-ff6e-4932-b624-dca976044d90)
 
 ## Uçuşlarım Ekranı
-
-![book (2)](https://github.com/user-attachments/assets/0cac5120-4233-406c-8cb8-8443abe8c673)
+![book](https://github.com/user-attachments/assets/fba61cca-a031-440c-a83b-627d98550ed4)
 
 ## Kullanılan Teknolojiler
 React TailwindCSS Nodejs MongoDB Schiphol PublicFlight API
